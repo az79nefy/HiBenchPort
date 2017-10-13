@@ -1,4 +1,4 @@
-# Port of spark-bench to HiBench
+# Port of HiBench to ESpark
 
 **How to port a benchmark:**
 1. You need to have opal installed to your local repo (you should already have done that during [ESpark installation](https://github.com/allprojects/big-data-analysis)).
